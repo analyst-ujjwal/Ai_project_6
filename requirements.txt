@@ -1,0 +1,11 @@
+streamlit 
+groq 
+langchain
+langchain_community 
+faiss-cpu 
+sentence-transformers 
+python-dotenv 
+pypdf 
+unstructured 
+requests 
+Pillow
